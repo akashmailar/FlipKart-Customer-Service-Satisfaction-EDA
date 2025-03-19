@@ -99,9 +99,21 @@ This project is built using Python and several data science libraries:
 
 #
   ```
-  📂 Flipkart-EDA
+  📂 FlipKart-Customer-Service-Satisfaction-EDA
   │-- Flipkart Data Analysis EDA    # Main Jupyter Notebook
   │-- Customer_support_data.csv     # Flipkart dataset
   │-- README.md                     # Documentation
   |-- Flipkart project.ppt          # Project Description
   ```
+
+---
+
+### 🚀 How to Run the Notebook
+
+#
+1️⃣ **Clone the Repository**
+  ```
+  git clone https://github.com/akashmailar/FlipKart-Customer-Service-Satisfaction-EDA.git
+  cd FlipKart-Customer-Service-Satisfaction-EDA
+  ```
+
