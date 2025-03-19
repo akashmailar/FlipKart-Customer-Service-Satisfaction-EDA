@@ -128,7 +128,7 @@ Run the following command to open Jupyter Notebook:
 ---
 
 ### 📌 Sample Visualizations
-
+#
 This project includes multiple visualizations to enhance understanding. Some examples:
 #
 📍 **Category Distribution**
@@ -151,3 +151,26 @@ Understanding how ratings impact consumer purchases.
 
 ---
 
+### 🤝 Contributing
+#
+🎯 Contributions are welcome! If you'd like to enhance this project:
+#
+1. 🍴 **Fork the repository.**
+
+2. 🛠 **Make your changes.**
+
+3. 📩 **Submit a pull request for review.**
+
+---
+
+### 📬 Contact
+#
+For any questions, suggestions, or collaboration opportunities, feel free to reach out:
+#
+- 📧 **Email:** akashmailar143@gmail.com
+
+- 🔗 **GitHub:** [Akash Mailar](https://github.com/akashmailar)
+
+---
+
+### 🙏 *Thank You!!!*
