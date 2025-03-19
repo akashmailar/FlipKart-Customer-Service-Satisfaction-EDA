@@ -4,7 +4,6 @@
 
 ## 👤 Contribution: Individual
 
----
 
 ### 📖 Project Summary
 
@@ -16,6 +15,7 @@ Through data cleaning, visualization, and statistical analysis, we explore vario
 
 ### 🎯 Project Objectives
 
+#
 - 🔍 **Understand the dataset structure** and perform data cleaning.
 
 - 📊 **Analyze product categories** and their distribution.
@@ -32,44 +32,45 @@ Through data cleaning, visualization, and statistical analysis, we explore vario
 
 ### 📊 Key Insights & Analysis
 
+#
 1. 🛠 **Data Cleaning & Preprocessing:**
 
-- 🗑️ Handling missing values, duplicate entries, and incorrect data types.
+  - 🗑️ Handling missing values, duplicate entries, and incorrect data types.
 
-- 🏗️ Standardizing numerical and categorical data for consistency.
+  - 🏗️ Standardizing numerical and categorical data for consistency.
 
 #
 2. 📏 **Statistical Summary:**
 
-- 📉 Generating descriptive statistics for key numerical features.
+  - 📉 Generating descriptive statistics for key numerical features.
 
-- 🚨 Identifying outliers and potential anomalies in the dataset.
+  - 🚨 Identifying outliers and potential anomalies in the dataset.
 
 #
 3. 🏷️ **Category Distribution:**
 
-- 🔢 Analyzing product categories and their frequency.
+  - 🔢 Analyzing product categories and their frequency.
 
-- 📊 Visualizing the most and least popular product types.
+  - 📊 Visualizing the most and least popular product types.
 
 #
 4. 💲 **Price Analysis:**
 
-📉 Understanding price variations across different categories.
+  - 📉 Understanding price variations across different categories.
 
-🎯 Identifying premium and budget-friendly product segments.
+  - 🎯 Identifying premium and budget-friendly product segments.
 
 #
 5. ⭐ **Ratings & Reviews:**
 
-- 📝 Examining trends in customer feedback.
+  - 📝 Examining trends in customer feedback.
 
-- 🌟 Analyzing how ratings influence product popularity.
+  - 🌟 Analyzing how ratings influence product popularity.
 
 #
 6. 🔗 **Correlation Analysis:**
 
-- 🔍 Identifying relationships between price, ratings, and reviews.
+  - 🔍 Identifying relationships between price, ratings, and reviews.
 
-- 🔬 Discovering patterns that affect customer purchasing decisions.
+  - 🔬 Discovering patterns that affect customer purchasing decisions.
 
