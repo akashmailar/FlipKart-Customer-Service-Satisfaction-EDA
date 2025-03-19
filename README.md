@@ -103,22 +103,22 @@ This project is built using Python and several data science libraries:
 #
 1️⃣ **Clone the Repository**
 
-     git clone https://github.com/akashmailar/FlipKart-Customer-Service-Satisfaction-EDA.git
-     cd FlipKart-Customer-Service-Satisfaction-EDA
+  git clone https://github.com/akashmailar/FlipKart-Customer-Service-Satisfaction-EDA.git
+  cd FlipKart-Customer-Service-Satisfaction-EDA
 
 #
 2️⃣ **Install Required Libraries**
 
 Ensure you have all dependencies installed before running the notebook:
 
-      pip install pandas numpy matplotlib seaborn jupyter
+  pip install pandas numpy matplotlib seaborn jupyter
     
 #
 3️⃣ **Launch Jupyter Notebook**
 
 Run the following command to open Jupyter Notebook:
 
-      jupyter notebook
+  jupyter notebook
     
 
 ---
