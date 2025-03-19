@@ -14,8 +14,8 @@ Through data cleaning, visualization, and statistical analysis, we explore vario
 ---
 
 ### 🎯 Project Objectives
-
 #
+
 - 🔍 **Understand the dataset structure** and perform data cleaning.
 
 - 📊 **Analyze product categories** and their distribution.
@@ -31,43 +31,43 @@ Through data cleaning, visualization, and statistical analysis, we explore vario
 ---
 
 ### 📊 Key Insights & Analysis
-
 #
+
 **1. 🛠 Data Cleaning & Preprocessing:**
 
   - 🗑️ Handling missing values, duplicate entries, and incorrect data types.
 
   - 🏗️ Standardizing numerical and categorical data for consistency.
-
 #
+
 **2. 📏 Statistical Summary:**
 
   - 📉 Generating descriptive statistics for key numerical features.
 
   - 🚨 Identifying outliers and potential anomalies in the dataset.
-
 #
+
 **3. 🏷️ Category Distribution:**
 
   - 🔢 Analyzing product categories and their frequency.
 
   - 📊 Visualizing the most and least popular product types.
-
 #
+
 **4. 💲 Price Analysis:**
 
   - 📉 Understanding price variations across different categories.
 
   - 🎯 Identifying premium and budget-friendly product segments.
-
 #
+
 **5. ⭐ Ratings & Reviews:**
 
   - 📝 Examining trends in customer feedback.
 
   - 🌟 Analyzing how ratings influence product popularity.
-
 #
+
 **6. 🔗 Correlation Analysis:**
 
   - 🔍 Identifying relationships between price, ratings, and reviews.
@@ -77,8 +77,8 @@ Through data cleaning, visualization, and statistical analysis, we explore vario
 ---
 
 ### 🛠 Technologies & Libraries Used
-
 #
+
 This project is built using Python and several data science libraries:
 
 - 🐍 **Python -** Core programming language
@@ -96,8 +96,8 @@ This project is built using Python and several data science libraries:
 ---
 
 ### 📁 Project Structure
-
 #
+
   ```
   📂 FlipKart-Customer-Service-Satisfaction-EDA
   │-- Flipkart Data Analysis EDA    # Main Jupyter Notebook
@@ -109,8 +109,8 @@ This project is built using Python and several data science libraries:
 ---
 
 ### 🚀 How to Run the Notebook
-
 #
+
 1️⃣ **Clone the Repository**
   ```
   git clone https://github.com/akashmailar/FlipKart-Customer-Service-Satisfaction-EDA.git
