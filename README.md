@@ -9,7 +9,7 @@
 #
 This project performs **Exploratory Data Analysis (EDA)** on a ***Flipkart*** dataset to uncover key trends in product pricing, ratings, customer reviews, and category distributions. By using Python’s robust data science libraries, we aim to gain meaningful insights that can drive better business decisions.
 
-Through data cleaning, visualization, and statistical analysis, we explore various aspects of the dataset, such as price variations across categories, rating distributions, and correlations between features. The findings from this analysis can help businesses optimize their product listings and pricing strategies on Flipkart.
+Through data cleaning, visualization, and statistical analysis, we explore various aspects of the dataset, such as price variations across categories, rating distributions, and correlations between features. The findings from this analysis can help businesses optimize their product listings and pricing strategies on ***Flipkart***.
 
 ---
 
