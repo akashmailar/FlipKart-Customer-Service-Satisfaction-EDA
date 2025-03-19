@@ -121,5 +121,26 @@ Run the following command to open Jupyter Notebook:
   jupyter notebook
 ```    
 
+- 📂 Open `Flipkart Data Analysis EDA.ipynb`
+
+- ▶️ Run all the cells sequentially to generate insights and visualizations.
+
 ---
 
+### 📌 Sample Visualizations
+#
+This project includes multiple visualizations to enhance understanding. Some examples:
+
+📍 **Category Distribution**
+
+Visualizing the most frequent product categories on Flipkart.
+#
+📍 **Pricing Trends**
+
+Analyzing how product prices vary across different categories.
+#
+📍 **Ratings and Reviews**
+
+Understanding how ratings impact consumer purchases.
+
+---
