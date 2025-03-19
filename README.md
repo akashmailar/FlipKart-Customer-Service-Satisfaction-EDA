@@ -4,6 +4,7 @@
 
 ## 👤 Contribution: Individual
 
+![FlipKart](https://github.com/akashmailar/FlipKart-Customer-Service-Satisfaction-EDA/blob/main/Flipkart.jpg)
 
 ### 📖 Project Summary
 #
