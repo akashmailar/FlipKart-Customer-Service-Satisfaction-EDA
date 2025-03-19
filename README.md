@@ -74,3 +74,34 @@ Through data cleaning, visualization, and statistical analysis, we explore vario
 
   - 🔬 Discovering patterns that affect customer purchasing decisions.
 
+---
+
+### 🛠 Technologies & Libraries Used
+
+#
+This project is built using Python and several data science libraries:
+
+- 🐍 **Python -** Core programming language
+
+- 📓 **Jupyter Notebook -** Interactive coding environment
+
+- 📊 **Pandas -** Data manipulation and analysis
+
+- 🔢 **NumPy -** Numerical computations
+
+- 📈 **Matplotlib -** Data visualization
+
+- 🎨 **Seaborn -** Statistical data visualization
+
+---
+
+### 📁 Project Structure
+
+#
+  ```
+  📂 Flipkart-EDA
+  │-- Flipkart Data Analysis EDA    # Main Jupyter Notebook
+  │-- Customer_support_data.csv     # Flipkart dataset
+  │-- README.md                     # Documentation
+  |-- Flipkart project.ppt          # Project Description
+  ```
