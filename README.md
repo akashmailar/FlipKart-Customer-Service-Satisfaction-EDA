@@ -33,42 +33,42 @@ Through data cleaning, visualization, and statistical analysis, we explore vario
 ### 📊 Key Insights & Analysis
 
 #
-1. 🛠 **Data Cleaning & Preprocessing:**
+**1. 🛠 Data Cleaning & Preprocessing:**
 
   - 🗑️ Handling missing values, duplicate entries, and incorrect data types.
 
   - 🏗️ Standardizing numerical and categorical data for consistency.
 
 #
-2. 📏 **Statistical Summary:**
+**2. 📏 Statistical Summary:**
 
   - 📉 Generating descriptive statistics for key numerical features.
 
   - 🚨 Identifying outliers and potential anomalies in the dataset.
 
 #
-3. 🏷️ **Category Distribution:**
+**3. 🏷️ Category Distribution:**
 
   - 🔢 Analyzing product categories and their frequency.
 
   - 📊 Visualizing the most and least popular product types.
 
 #
-4. 💲 **Price Analysis:**
+**4. 💲 Price Analysis:**
 
   - 📉 Understanding price variations across different categories.
 
   - 🎯 Identifying premium and budget-friendly product segments.
 
 #
-5. ⭐ **Ratings & Reviews:**
+**5. ⭐ Ratings & Reviews:**
 
   - 📝 Examining trends in customer feedback.
 
   - 🌟 Analyzing how ratings influence product popularity.
 
 #
-6. 🔗 **Correlation Analysis:**
+**6. 🔗 Correlation Analysis:**
 
   - 🔍 Identifying relationships between price, ratings, and reviews.
 
