@@ -144,3 +144,10 @@ Analyzing how product prices vary across different categories.
 Understanding how ratings impact consumer purchases.
 
 ---
+
+### 📜 License
+#
+📄 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this work with appropriate credit.
+
+---
+
