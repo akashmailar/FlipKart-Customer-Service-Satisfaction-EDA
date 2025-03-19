@@ -95,6 +95,7 @@ This project is built using Python and several data science libraries:
   │-- Customer_support_data.csv     # Flipkart dataset
   │-- README.md                     # Documentation
   |-- Flipkart project.ppt          # Project Description
+  |-- Flipkart.jpg                  # Project Image
   ```
 
 ---
