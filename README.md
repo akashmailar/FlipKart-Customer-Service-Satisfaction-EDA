@@ -1,10 +1,10 @@
 # FlipKart Customer Service Satisfaction
 
+![FlipKart](https://github.com/akashmailar/FlipKart-Customer-Service-Satisfaction-EDA/blob/main/Flipkart.jpg)
+
 ## 📌 Project Type: Exploratory Data Analysis (EDA)
 
 ## 👤 Contribution: Individual
-
-![FlipKart](https://github.com/akashmailar/FlipKart-Customer-Service-Satisfaction-EDA/blob/main/Flipkart.jpg)
 
 ### 📖 Project Summary
 #
